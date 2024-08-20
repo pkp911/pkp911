@@ -1,64 +1,62 @@
-<h1 align="center">Holaa!! Huzaifa Here💫💫</h1>
-<h3 align="center">A fervid Web developer and Competitive Programmer 👻 Pre-final year IIIT
-    Bhopal🤖</h3>
-    <br></br>
+<h1 align="center">Holaa!! Prashant Pandey Here💫💫</h1>
+<h3 align="center">A fervid Web Developer and Competitive Programmer 👻 Pre-final year IIIT Bhopal🤖</h3>
+<br></br>
 <p>
-    <img alt="gif" align="right" widht="320" height="280"
+    <img alt="gif" align="right" width="320" height="280"
         src="https://media.tenor.com/nwTD5-bwkRcAAAAC/shinji-ikari-thank-you.gif" />
 </p>
 
-- 🐾 I’m currently learning **Full Stack development and Data Structures and Algorithm**
+- 🐾 I’m currently learning **Full Stack development and Data Structures and Algorithms**
+
+- 👨‍💻 My projects include **[NovelNook](https://github.com/pkp911/NovelNook)**, **[Huddle UP](https://github.com/pkp911/Huddle-Up)**, and **[Learning Hub](https://github.com/pkp911/Learning-Hub)**
+
+- 🔧 I’m proficient in **ReactJs, NodeJs, ExpressJs, MongoDB, C/C++, Python, SQL, and REST APIs**
 
 - 🤝 I’m looking to collaborate on **Web development projects**
 
-- 💬 Ask me about **Front-end ,literature and mythologies**
+- 💬 Ask me about **Front-end, literature, and mythologies**
 
-- 📧 How to reach me **mhuzaifa.0228@gmail.com**
+- 📧 How to reach me **prashant.2101017cs@iiitbh.ac.in**
 
-- ⚡ Fun fact:**Well I do have a good smile**
+- ⚡ Fun fact: **Well, I do have a good smile**
 
 <br></br>
 <br></br>
 <p align="left">
     <img
-        src="https://komarev.com/ghpvc/?username=huzaifa9999&label=Profile%20views&color=0e75b6&style=flat"
-        alt="huzaifa9999" />
+        src="https://komarev.com/ghpvc/?username=pkp911&label=Profile%20views&color=0e75b6&style=flat"
+        alt="pkp911" />
 </p>
-
 
 <p align="center">
     <h3 align="center">Connect with me:</h3>
     <p align="center">
-        <a href="https://linkedin.com/in/mohammadhuzaifa999/"
-            target="blank">
+        <a href="https://linkedin.com/in/prashant-pandey-ba8893228/" target="blank">
             <img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                alt="https://www.linkedin.com/in/mohammadhuzaifa999/" height="40" width="50" />
+                alt="https://www.linkedin.com/in/prashant-pandey-ba8893228/" height="40" width="50" />
         </a>
         <a href="https://www.instagram.com/huzaifa_.999/" target="blank">
             <img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                 alt="https://www.instagram.com/huzaifa_.999/" height="40" width="50" />
         </a>
-        <a href="https://www.codechef.com/users/huzaifa2802"
-            target="blank">
+        <a href="https://www.codechef.com/users/pkp7667" target="blank">
             <img align="center"
                 src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-                alt="https://www.codechef.com/users/huzaifa2802" height="40" width="50" />
+                alt="https://www.codechef.com/users/pkp7667" height="40" width="50" />
         </a>
-        <a href="https://codeforces.com/profile/huzaifa999"
-            target="blank">
+        <a href="https://codeforces.com/profile/bitboss950" target="blank">
             <img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-                alt="https://codeforces.com/profile/huzaifa999" height="40" width="50" />
+                alt="https://codeforces.com/profile/bitboss950" height="40" width="50" />
         </a>
-        <a href="https://leetcode.com/huzaifa999/" target="blank">
+        <a href="https://leetcode.com/PrasHanT766/" target="blank">
             <img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-                alt="https://leetcode.com/huzaifa999/" height="40" width="50" />
+                alt="https://leetcode.com/PrasHanT766/" height="40" width="50" />
         </a>
     </p>
-
 </p>
 <br></br>
 <h3 align="center">Languages and Tools:</h3>
@@ -139,20 +137,20 @@
 <br></br>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=huzaifa9999&theme=darkhub" alt="huzaifa9999" />
+        <img src="https://github-profile-trophy.vercel.app/?username=pkp911&theme=darkhub" alt="pkp911" />
     </a>
 </p>
 
 <p align="center">
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifa9999&show_icons=true&locale=en&layout=compact&theme=nightowl"
-        alt="huzaifa9999" />
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=pkp911&show_icons=true&locale=en&layout=compact&theme=nightowl"
+        alt="pkp911" />
 </p>
 <p align ="right">
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa9999&theme=nightowl"
-        alt="huzaifa9999" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pkp911&theme=nightowl"
+        alt="pkp911" />
 </p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=huzaifa9999&show_icons=true&locale=en&theme=nightowl"
-        alt="huzaifa9999" /></p>
+        src="https://github-readme-stats.vercel.app/api?username=pkp911&show_icons=true&locale=en&theme=nightowl"
+        alt="pkp911" /></p>
